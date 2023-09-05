@@ -1,5 +1,3 @@
 ## LPDM - LunaSat Power and Data Model
-This is the workshop version of the LPDM. If you are a member of GLEE, and you want to update the LPDM locally, visit the LPDM repository in the GLEE2023 organization.
-
-To access the LPDM, visit the Github Pages website: https://glee2023.github.io/LPDM_Workshop/
-
+This is the workshop version of the LPDM, being worked on by Team 3312, as part of the GLEE initiative. 
+GLEE: https://www.glee2023.org/
